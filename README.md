@@ -42,7 +42,7 @@ ___
 
 # For more cheatsheet commands refer to the below links
 
-[Cheatsheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[MARKDOWN SYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[Writing on GitHub](https://help.github.com/en/categories/writing-on-github)
+[Cheatsheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
+[MARKDOWN SYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)<br/>
+[Writing on GitHub](https://help.github.com/en/categories/writing-on-github)<br/>
 [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
