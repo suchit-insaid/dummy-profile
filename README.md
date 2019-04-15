@@ -35,3 +35,14 @@ Every year a lot of companies hire a number of employees. The companies __invest
 - Most of all we found factors which are most important to employees and if are not fulfilled might lead to Attrition.
 
 [Jupyter Notebook](./HR_Analytics.ipynb)
+
+
+
+___
+
+# For more cheatsheet commands refer to the below links
+
+[Cheatsheet by adam-p](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[MARKDOWN SYNTAX](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Writing on GitHub](https://help.github.com/en/categories/writing-on-github)
+[Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
